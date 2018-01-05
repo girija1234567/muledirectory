@@ -1,0 +1,6 @@
+#** GENERATED CONTENT ** Mule Application Deployment Descriptor
+#Fri Dec 29 15:43:09 IST 2017
+redeployment.enabled=true
+encoding=UTF-8
+config.resources=employee.xml,employee_crud_rest.xml
+domain=default
